@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /contact
+Allow: /journey
+Allow: /newsletter
+Allow: /projects
+Disallow: /admin
+Disallow: /admin-auth
+Disallow: /api
+Sitemap: https://spyberpolymath.com/sitemap.xml

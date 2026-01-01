@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\personal\\nextjs-spyberpolymath.com\\logs\\.dbe14020edbef5c09451d50f5619162d57bacc4b-audit.json",
+    "files": [
+        {
+            "date": 1766062093459,
+            "name": "D:\\personal\\nextjs-spyberpolymath.com\\logs\\error-2025-12-18.log",
+            "hash": "5e89d2df7ce49aee6308d9763b72b3d99e263f81735cdc14277d259dc6c5d82e"
+        }
+    ],
+    "hashType": "sha256"
+}
